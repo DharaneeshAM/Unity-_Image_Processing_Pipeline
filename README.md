@@ -61,9 +61,11 @@ Download the BLIP model using the Hugging Face API:
 ## Step 5: Queries
 
 - For ONLINE QUERIE response use OpenAI **(GPT Api Kye)**
-  <img src="./Images/open ai.png" alt="View" width="110"/>
+
+  <img src="./Images/open ai.png" alt="View" width="150"/>
 - Or, if you are using a OFFLINE hosted model like **Ollama**
-  <img src="./Images/ollama.png" alt="View" width="130"/>
+
+  <img src="./Images/ollama.png" alt="View" width="150"/>
 
 ## Unity Setup (Required Packages):
 
